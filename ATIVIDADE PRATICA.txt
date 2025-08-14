@@ -1,0 +1,11 @@
+ATIVIDADE PRATICA
+
+implementar uma classe que represente o tutor
+Atributos:
+cpf; nome; matricula; qtd_de_estudantes_tutelados
+Método salvar:
+Adotar a regra geral do cpf
+Salvar na tabela de tutores
+
+Mais importante:
+A faculdade deve receber o tutor no método processar, sem alteração no código
